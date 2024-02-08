@@ -1,0 +1,19 @@
+.product p {
+    margin: 0;
+}
+
+.product {
+    margin-bottom: 0.5rem;
+}
+
+.isDiscount {
+    color: crimson
+};
+
+.price {
+    font-weight: bold;
+}
+
+.name {
+    text-transform: uppercase;
+}

@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Livre de recettes végétariennes",
+      "price": 12.99,
+      "isDiscount": false
+    },
+    {
+      "id": 2,
+      "name": "Casque sans fil Bluetooth",
+      "price": 49.90,
+      "isDiscount": true
+    },
+    {
+      "id": 3,
+      "name": "Sac à dos de randonnée",
+      "price": 39.95,
+      "isDiscount": false
+    },
+    {
+      "id": 4,
+      "name": "Montre connectée",
+      "price": 99.00,
+      "isDiscount": true
+    },
+    {
+      "id": 5,
+      "name": "Cafetière à piston",
+      "price": 19.90,
+      "isDiscount": false
+    },
+    {
+      "id": 6,
+      "name": "Lampe de bureau LED",
+      "price": 24.95,
+      "isDiscount": true
+    },
+    {
+      "id": 7,
+      "name": "Tapis de yoga",
+      "price": 14.90,
+      "isDiscount": false
+    },
+    {
+      "id": 8,
+      "name": "Enceinte portable étanche",
+      "price": 29.90,
+      "isDiscount": true
+    },
+    {
+      "id": 9,
+      "name": "Bougie parfumée",
+      "price": 9.90,
+      "isDiscount": false
+    },
+    {
+      "id": 10,
+      "name": "Puzzle 3D de la Tour Eiffel",
+      "price": 34.90,
+      "isDiscount": true
+    }
+  ]
+  
